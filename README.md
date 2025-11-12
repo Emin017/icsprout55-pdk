@@ -2,8 +2,8 @@
 
 # ICsprout55 Open Source PDK
 ## Todo
-- RAMs, GDS, DRC/LVS Rules, SPICE Models, PDN, RC, etc
-- User Guide, Tutorials, Datasheets, etc
+- [ ] RAMs, GDS, DRC/LVS Rules, SPICE Models, PDN, RC, etc
+- [ ] User Guide, Tutorials, Datasheets, etc
 
 ## Usage
 Download the repository and obtain large files by executing make script (please install `bzip2` tool first).
